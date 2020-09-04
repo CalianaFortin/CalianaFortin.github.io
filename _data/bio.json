@@ -45,7 +45,8 @@
     }
   ],
   "skills": [
-    {
+  ],
+    /*{
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
@@ -54,19 +55,8 @@
         "Java",
         "Javascript",
       ]
-    }/*,
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }*/
-  ],
+    }
+  ],*/
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
