@@ -12,7 +12,7 @@ labels:
 summary: An implementation of the record application with new features, created in ICS 212.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/ICS212Proj2 - proof.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
