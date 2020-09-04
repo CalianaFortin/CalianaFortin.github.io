@@ -45,7 +45,7 @@
       ]
     }
   ],
-  /*"skills": [
+  "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
@@ -58,7 +58,7 @@
         "Common Lisp"
       ]
     },
-    {
+    /*{
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -68,8 +68,8 @@
         "g++",
         "TI LaunchPad"
       ]
-    }
-  ],*/
+    }*/
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
