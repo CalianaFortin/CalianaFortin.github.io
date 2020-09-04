@@ -58,7 +58,7 @@
         "Common Lisp"
       ]
     },
-    {
+    /*{
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -68,7 +68,7 @@
         "g++",
         "TI LaunchPad"
       ]
-    }
+    }*/
   ],
   "education": [
     {
@@ -95,8 +95,8 @@
         "Drive, design and build student-community projects for UH Manoa"
       ]*/
     },
-    {
-      /*"company": "UH Information Technology Services",
+    /*{
+      "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
@@ -121,8 +121,8 @@
         "Maintain custom data collection and storage infrastructure"
       ]*/
     },
-    {
-      /*"organization": "",
+    /*{
+      "organization": "",
       "website": "",
       "position": "Professional organization involvement",
       "startDate": "",
