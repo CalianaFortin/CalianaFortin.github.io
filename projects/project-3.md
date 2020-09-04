@@ -11,7 +11,7 @@ labels:
 summary: A beer sorter I made for ICS 211.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/ICS211Proj.png">
+<img class="ui image" src="../images/ICS211Proj.png">
 
 
 
