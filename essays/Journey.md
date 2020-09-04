@@ -1,11 +1,13 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Journey
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2020-09-04
 labels:
-  - Engineering
+  - Future
+  - Computer science
+  - Bachelors
 ---
 
 <img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
