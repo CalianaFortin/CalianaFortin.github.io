@@ -12,6 +12,9 @@ labels:
 summary: A project for the class ICS 212. The first implementation of a record application.
 ---
 
+<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+
+
 This project was for the class ICS 212. It was a basic implementation of a record system with an interactive menu the user could interact with. There were 6 different options for the record. These options are add record, print record, print all record, delete record, read file, write file, clean up, and modify record.
 For the add record, it allowed the user to add a record which included their name, address, and account number. The recorded needed to be added in a correct order, in order to do this the account number was compared. The delete record deleted the record of the account number the user inputed. Print record basically printed the record based on the account number the user entered. Read basically read a file into a text array. Write basically wrote the data into a text file. Each of the functions or options were implemented using C++. 
 
