@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ICS212.png
-title: Micromouse
+title: ICS 212 Project 1 - record application
 permalink: projects/ICS212project-1
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
