@@ -6,7 +6,7 @@
     "email": "fortinc@hawaii.edu",
     "phone": "808-286-9134",
     "website": "https://calianaFortin.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am a student attending the University of Hawaii at Manoa; pursuing a Bachelor's Degree in Computer Science in the Department of Information and Computer Sciences. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96826",
@@ -54,20 +54,18 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ "ICS 111, ICS 211, ICS 212, ICS 141, ICS 241, ICS 314, ICS 311"
       ]
     }
   ]
