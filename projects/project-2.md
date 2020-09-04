@@ -18,4 +18,4 @@ This record application is the same project as project 1 but with different feat
 
 In this project I learned how to access objects or variables outside of their scope. I was able to get a better understand of the language, and how to implement a user interface that was interactable. I also learned how to reverse a list with pointers. My problem solving skill were also improved.  
  
-Source: <a href="https://github.com/CalianaFortin/ICS-212-Project2/tree/master"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/CalianaFortin/ICS-212-Project2/tree/master"><i class="large github icon"></i>ICS212/Project-2</a>
