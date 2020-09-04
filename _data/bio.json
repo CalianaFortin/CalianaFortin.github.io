@@ -55,7 +55,7 @@
         "Javascript",
       ]
     }
-    /*{
+    {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -65,7 +65,7 @@
         "g++",
         "TI LaunchPad"
       ]
-    }*/
+    }
   ],
   "education": [
     {
