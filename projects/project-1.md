@@ -12,7 +12,7 @@ labels:
 summary: A project for the class ICS 212. The first implementation of a record application.
 ---
 
-<img class="ui medium center floated rounded image" src="/images/ICS212Proj1.png">
+<img class="ui large center floated rounded image" src="/images/ICS212Proj1.png">
 
 
 This project was for the class ICS 212. It was a basic implementation of a record system with an interactive menu the user could interact with. There were 6 different options for the record. These options are add record, print record, print all record, delete record, read file, write file, clean up, and modify record.
