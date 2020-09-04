@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/ICS211.png
 title: Cotton
-permalink: projects/cotton
+permalink: projects/ICS211
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+summary: A beer sorter I made for ICS 211.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
