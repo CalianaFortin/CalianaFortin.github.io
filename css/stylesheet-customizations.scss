@@ -8,6 +8,7 @@
 // Customize the background color
 body {
   background: linear-gradient(135deg, #09e485 0%,#0291e3 100%);
+  background-attachment: fixed;
 }
 
 // Customize the menubar color
@@ -19,5 +20,3 @@ body {
 .icon-color {
   color: darken(lightsteelblue, 20%);
 }
-
-background-attachment: fixed;
