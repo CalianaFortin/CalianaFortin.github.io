@@ -17,13 +17,17 @@ Image from [Computer Science Degree Hub](https://www.computersciencedegreehub.co
 
 However, when I came across Javascript it was a whole different story. It was the first time in my computer science journey that I did not feel lost, but rather a sigh of relief. 
 Personally, from a newbie to Javascript like myself I think that it is a great language so far. Personally, I find Javascript to be loads easier than java or c. A lot of the syntax is very intuitive and is easier to make sense of than other languages. 
- 
 
-Often when trying to learn a language for class, the professor would assign a textbook. While textbooks are great, I think that learning a language from a website (like freecodecamp) is one thing that has helped me to quickly grasp javascript. Learning like this allowed me to quickly learn the basic syntax of the language and other basic conventions. The little exercises provided on the side allowed me to apply what I learned about the thing I was learning about like for example loops or objects. I found this type of learning to be more effective than just diving into a textbook without the context of the language. 
+## My Experience with Learning Other Languages
  
+Often when trying to learn a language for class, the professor would assign a textbook. While textbooks are great, I think that learning a language from a website (like freecodecamp) is one thing that has helped me to quickly grasp javascript. Learning like this allowed me to quickly learn the basic syntax of the language and other basic conventions. The little exercises provided on the side allowed me to apply what I learned about the thing I was learning about like for example loops or objects. I found this type of learning to be more effective than just diving into a textbook without the context of the language. 
+
+
+## Javascript and Software Engineering
 
 From a newbie perspective, I am unsure of how Javascript connects to computer science. I am new to javascript, but I heard that javascript is often used in web development. My dad used to be a website developer, and he used to make websites using javascript, HTML, CSS, and some other languages. 
  
+## WOD vs my Coding Experience 
 
 Coding for hours and hours on end without a break is what I am used to doing for many of my past computer science classes. Coming to ICS 314, I had the perception that I would be doing the same thing. I was preparing my self to follow the same routine of solving coding problems for hours. However, this was not the case. In our zoom meeting for class, it was revealed that we were going to be timed during our coding exercises. I was in shock and filled with anxiety at that very moment. Timing my coding practices is something new and unfamiliar for me. I knew that I usually spent hours coding, so I was unprepared to be coding under a certain time limit. Practice problems were provided to help, so I took it upon myself to try and finish these problems. 
 
