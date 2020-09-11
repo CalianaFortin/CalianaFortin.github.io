@@ -17,7 +17,13 @@ Questions are an *integral* part to learning and understanding a subject. Today,
 
 ## What is a smart question?
 
-A question like  "Where can I find a good IDE?", will often receive replies like "Google it yourself". This is a not so smart question. The person responding to the question believes the asker didn't do the research themselves. Overall it makes the asker seem lazy. This not so smart question can be made into a smart question. Rather the asker should have typed "I have googled for some good IDE's, but I am not sure which one to pick X or Y. Any suggestions for the one I should choose." This questions tells the responders that the asker did their research, it also gives the responder some extra insight about what to answer and also how to answer.
+A smart question is a question that is concise, while still providing enought detail and an example to help the responder answer adequately.
+
+An example of a smart question is  "I have googled for some good IDE's, but I am not sure which one to pick X or Y. Any suggestions for the one I should choose." This questions tells the responders that the asker did their research, it also gives the responder some extra insight about what to answer and also how to answer.
+
+## What is a not so smart question?
+
+A not so smart question is often like this, "Where can I find a good IDE?". This will most likely receive replies like "Google it yourself". The person responding to the question believes the asker didn't do the research themselves. Overall it makes the asker seem lazy. 
 
 ## Why are smart questions important?
 
@@ -55,7 +61,7 @@ A smart Software Engineer needs to know how to ask smart questions. "Why?" well 
 
 ## Insights I gained from reading *"How to ask questions the smart way" by Eric Raymond*
 
-From this reading, I learned how to ask smart questions to get good answers. With this new insight I will be able to ask smart questions not only in my computer science classes but in my other classes too. I feel that smart questions not only apply to the technical field but to other things too. Given the new environment COVID has put a lot of people in, smart questions will be even more crucial. 
+From this reading, I learned how to ask smart questions to get good answers. With this new insight I will be able to ask smart questions not only in my computer science classes but in my other classes too. I feel that smart questions not only apply to the technical field but to other things too. Given the new environment COVID has put a lot of people in, smart questions will be even more useful. With everything currently being online, I think it makes it more difficult for most people to interact and have good discussions. It is often hard for me to get help from my professors without physically being their to show them what I need help with. However, by learning about smart questions it helped me to overcome this obstacle. 
 
 
 
