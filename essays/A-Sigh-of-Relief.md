@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium centered floated image" src="../images/A-sigh-of-relief.jpg">
+<img class="ui centered medium image" src="../images/A-sigh-of-relief.jpg">
 [Computer Science Degree Hub](https://www.computersciencedegreehub.com/faq/what-is-coding/).
 
 
