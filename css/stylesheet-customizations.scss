@@ -7,15 +7,89 @@
 
 // Customize the background color
 body {
-  background:(#7fd4c7 30%);
+background: #e3f4f4;
 }
 
 // Customize the menubar color
 .ui.menu {
-  background: #7fd4c7;
+   background: #0f4356;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: darken(#7fd4c7, 20%);
+color: #0f4356;
 }
+
+a {
+    background: 0 0;
+    color: #0f4356;
+    text-decoration: none;
+}
+
+p {
+    color: #388291;
+    margin: 0.5 em;
+    line-height: 1.4285em;
+}
+
+.ui.header {
+    color: #62b6cb;
+}
+
+h3.ui.header {
+    font-size: 1.28rem;
+    color: #62b6cb;
+}
+
+ui.header:last-child {
+    margin-bottom: 0;
+   color: #62b6cb;
+}
+
+
+.ui.left.aligned.header {
+    text-align: left;
+    color: #0f4356;
+}
+
+.ui.menu .item {
+   color: #62b6cb;
+   
+}
+
+.ui.center.aligned.header, .ui.centered.header {
+    text-align: center;
+    color: #0f4356;
+}
+
+.ui.menu .active.item {
+    background: rgba(45,12,60,.15);
+    color: #CAE9ff;
+    font-weight: 400;
+    box-shadow: none;
+}
+
+.ui.red.label, .ui.red.labels .label {
+    background-color: #62b6cb!important;
+    border-color: #388291!important;
+    color: #FFF!important;
+}
+
+
+body{
+   color: #0f4356;
+}
+
+.ui.card, .ui.cards>.card {
+    
+    background: #b3dbe5;
+    
+    box-shadow: 0 1px 50px 0 #CAE9ff, 0 0 0 1px #CAE9ff;
+   
+}
+
+.ui.card>.content>.description, .ui.cards>.card>.content>.description {
+    clear: both;
+    color: #388291;
+}
+
