@@ -9,7 +9,7 @@ labels:
 ---
 
 <img class="ui centered medium image" src="../images/A-sigh-of-relief.jpg">
-<center>[Image from the Computer Science Degree Hub](https://www.computersciencedegreehub.com/faq/what-is-coding/).</center>
+<p style="text-align:center">[Image from the Computer Science Degree Hub](https://www.computersciencedegreehub.com/faq/what-is-coding/)</p>
 
 
 “Click, click, click”, the keys go as I type away. “I don’t understand what is wrong?!?”, I think to myself as I continuously get the same error. Feeling lost is one thing about programming I am used to. Learning languages such as java and c often made me feel lost at first. I would try a countless number of things trying to get the console to stop outputting the same error. It would sometimes take hours for me to figure out what I was doing wrong. 
