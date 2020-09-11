@@ -37,17 +37,26 @@ The last thing a smart question has is evidence or examples. In this example the
 
 In the response section to this question we can see that the user got a concise answer with examples.
 
-## Example of a not so smart question
+## Example of a not so smart question:
 
 
 <img class="ui centered medium image" src="../images/Bad question.png"> 
-<a href="https://stackoverflow.com/questions/51580918/could-someone-explain-me-what-this-mean-line-by-line">A not so smart question</a>
+<a href="https://stackoverflow.com/questions/51580918/could-someone-explain-me-what-this-mean-line-by-line">A Not So Smart Question</a>
 
 In this example a not so smart question is asked. The first thing to notice is that the title of the question is not informative,grammatically correct, and its asking for someone to do their work. This title is not informative. It does not tell the responder what part of the code they need help understanding. The title also has a grammatical error in it. A grammatical error often will tell the responder that the question your asking is last minute, and that you did not try to proofread the question before asking. Lastly, the title is telling the responder to do something for them instead of asking for help.
 
 The next thing to notice is that the description is not very descriptive. It does not precisely summarize what the asker wants help with. The description also includes that the question they are asking is their homework. This can make the asker seem lazy because they do not want to attempt their homework themselves. 
 
 The only good thing about this question is that they provide an example or evidence. In this question they typed the code they needed help with which helped to give context. 
+
+## How do smart questions relate to Software Engineers?
+
+A smart Software Engineer needs to know how to ask smart questions. "Why?" well when trying to develop software with a deadline time is something that cannot be wasted. A not so smart question will waste time thus make getting an answer difficult. A smart question will often get a answer quick thus not wasting crucial time.  
+
+## Insights I gained from reading *"How to ask questions the smart way" by Eric Raymond*
+
+From this reading, I learned how to ask smart questions to get good answers. With this new insight I will be able to ask smart questions not only in my computer science classes but in my other classes too. I feel that smart questions not only apply to the technical field but to other things too. Given the new environment COVID has put a lot of people in, smart questions will be even more crucial. 
+
 
 
 
