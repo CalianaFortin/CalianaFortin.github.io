@@ -17,5 +17,7 @@ summary: An implementation of the record application with new features, created 
 This record application is the same project as project 1 but with different features. I created this project in ICS 212, in the Spring 2019. New features that were added include a new user interface, reverse, and modify. The new user interface is more cleaned up and easier to read. Reverse basically reversed the order of the list. Modify changed the record if the user input a valid account number. It allowed them to change their name or address. This project is implemented using C, C++.
 
 In this project I learned how to access objects or variables outside of their scope. I was able to get a better understand of the language, and how to implement a user interface that was interactable. I also learned how to reverse a list with pointers. My problem solving skill were also improved.  
+
+I plan to try and implement a nicer looking menu and more features such as withdrawal and deposits.
  
 Source: <a href="https://github.com/CalianaFortin/ICS-212-Project2/tree/master"><i class="large github icon"></i>ICS212Project2</a>
