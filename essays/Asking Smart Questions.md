@@ -27,7 +27,7 @@ By asking a smart question, you can get a more concise answer. A vague question 
 
 
 <img class="ui centered medium image" src="../images/Smart question example.png"> 
-<a href="https://stackoverflow.com/questions/4244896/dynamically-access-object-property-using-variable">link text</a>
+<a href="https://stackoverflow.com/questions/4244896/dynamically-access-object-property-using-variable">A Smart Question</a>
 
 In this example a smart question asked will usually start off with a good title. The title in the example tells the responder that the asker is looking for an answer concerning, "Dynamically access object property using variable". An example of a bad title is something like this, "HELP, I need help with this!". This title may seem whiny or annoying to the responder. It also doesn't let the responder know what they are answering.  
 
@@ -41,7 +41,7 @@ In the response section to this question we can see that the user got a concise 
 
 
 <img class="ui centered medium image" src="../images/Bad question.png"> 
-<a href="https://stackoverflow.com/questions/51580918/could-someone-explain-me-what-this-mean-line-by-line">link text</a>
+<a href="https://stackoverflow.com/questions/51580918/could-someone-explain-me-what-this-mean-line-by-line">A not so smart question</a>
 
 In this example a not so smart question is asked. The first thing to notice is that the title of the question is not informative,grammatically correct, and its asking for someone to do their work. This title is not informative. It does not tell the responder what part of the code they need help understanding. The title also has a grammatical error in it. A grammatical error often will tell the responder that the question your asking is last minute, and that you did not try to proofread the question before asking. Lastly, the title is telling the responder to do something for them instead of asking for help.
 
