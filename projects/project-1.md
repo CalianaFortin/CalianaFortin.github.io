@@ -23,7 +23,7 @@ For the add record, it allowed the user to add a record which included their nam
 
 This was a solo project, so I was the main programmer. I implemented each of the functions using pointers. Personally, from this project I learned how to used pointers to access data from a different function. I learned how to problem solve and create code without multiple return statements in one function and without breaks. I learned how to sketch out my ideas of the movement of memory in a program. 
 
-## My Plans:
+## Future Plans:
 
 I plan to revist this project to add more features such as a more interactive menu with more advanced features. 
 
