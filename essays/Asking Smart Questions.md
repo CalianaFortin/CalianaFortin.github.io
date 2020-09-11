@@ -12,5 +12,12 @@ labels:
 
 <img class="ui centered medium image" src="../images/Smart-Question.png"> 
 
+Questions are an integral part to learning and understanding a subject. However, to asking a good quesyion  
+
+
+## What is a smart question?
+
+Questions are an integral part to learning and understanding a subject. However,  
+
 
 
