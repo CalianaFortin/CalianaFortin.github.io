@@ -21,6 +21,6 @@ Ever since I was younger I always was fascinated with technology. I would spend 
 
 Eventually, I was able to graduate school a year early. I quickly enrolled in UH manoa. I was ready, I wanted to finally achieve my dream of doing something bigger. In my freshmen year of college I was enrolled into ICS 211. I thought that this class would be easy enough given some of my past experiences with programming. However, as the class went on I began to get lost and feel lost. I did not understand why I was struggling. *"Am I good enough?"*. I was saddened. Was I not good enough for the dream I set out? Finally as the school year ended I was able to pass the class. Over the break I decided to try and re-ignite my interest in computer science. I wanted to find something I was passionate about. I found that I was passionate about Software engineering, A-I, and video games. I was able to refresh my view of my future. I wanted to continue to try hard no matter the dificulty. 
 
-## My future 
+## My Future 
 
 As the semesters went on I was able to improve my work ethic and problem solving skills. I was able to overcome many of the obstacles I felt in the first semester of college. Now a junior, I am closer than ever. I hope to develop a better understanding of some of the harder subjects in ICS such as Algorithims, and Data structures. In the future, I want to have more projects in my portfolio. 
