@@ -10,7 +10,9 @@ labels:
   - Bachelors
 ---
 
-<img class="ui large center image" src="../images/Journey.jpg"> *A journey leads many to different paths.*
+<img class="ui centered medium image" src="../images/Journey.jpg"> 
+
+*A journey leads many to different paths.*
 
 Going through an academic journey is often difficult. Many times there will be moments when you want to give up. I know that personally I have been through these moments. Often when things would get hard I would question myself *"Am I good enough?"*. Am I good enough to keep going on ... should I try something easier? These are the kind of things I would ponder to myself when going through my computer science journey.
 
