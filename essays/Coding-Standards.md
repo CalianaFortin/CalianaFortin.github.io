@@ -1,15 +1,23 @@
 ---
 layout: essay
 type: essay
+<<<<<<< HEAD
 title: Coding Standards
+=======
+title: Coding Standards  
+>>>>>>> e805243ebe39dc9f4d835a996a2de458c838e006
 date: 2020-09-24
 labels:
   - Software Engineering
   - Learning
+<<<<<<< HEAD
   - Coding Standards
+=======
+  - Coding Standards 
+>>>>>>> e805243ebe39dc9f4d835a996a2de458c838e006
 ---
 
-<img class="ui centered medium image" src="../images/A-sigh-of-relief.jpg">
+<img class="ui centered medium image" src="../images/code-main.jpg">
 
 
 ## What are Coding Standards?
@@ -24,8 +32,13 @@ Coding standards are usually enforced using automation. These tools are are run 
 ## My View of Coding Standards
 I believe that Coding Standards help to improve the overall quality of code. If something is difficult to read, it is harder to improve, therefore the quality of the code is inadequate. I feel that enforcing coding standards helps to improve the process of learning a new programing language. Since coding standards make code more readable, it makes it easier to understand, therefore making it easier to learn.
 
+<<<<<<< HEAD
 ## My Experience with IntelliJ and EsLint
 Personally for me I like using IntelliJ and EsLint. IntelliJ is very customizable and provides many different options. EsLint helps me keep my code looking nice. It helps to indent the code and make my code more readable, so that I can spot logical errors in my code. It also makes it easier for other people to help me when I have a problem with my code.
+=======
+<a href="https://webguruz.in/the-significance-of-coding-standards/">Image from the Computer Science Degree Hub</a> 
+ 
+>>>>>>> e805243ebe39dc9f4d835a996a2de458c838e006
 
 The only con about EsLint is that I have to always install it before I start a new project. I personally think it would be better if EsLint could be automated and preinstalled for each project.
 
