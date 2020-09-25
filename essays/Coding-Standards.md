@@ -9,7 +9,7 @@ labels:
   - Coding Standards 
 ---
 
-<img class="ui centered medium image" src="../images/code-main.jpg">
+<img class="ui centered large image" src="../images/code-main.jpg">
 
 
 ## What are Coding Standards?
