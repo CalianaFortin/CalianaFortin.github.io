@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: A Sigh of Relief 
-date: 2020-09-03
+title: Coding Standards  
+date: 2020-09-24
 labels:
   - Software Engineering
   - Learning
+  - Coding Standards 
 ---
 
 <img class="ui centered medium image" src="../images/code-main.jpg">
