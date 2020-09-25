@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui centered medium image" src="../images/A-sigh-of-relief.jpg">
+<img class="ui centered medium image" src="../images/code-main.jpg">
 
 “Click, click, click”, the keys go as I type away. “I don’t understand what is wrong?!?”, I think to myself as I continuously get the same error. Feeling lost is one thing about programming I am used to. Learning languages such as java and c often made me feel lost at first. I would try a countless number of things trying to get the console to stop outputting the same error. It would sometimes take hours for me to figure out what I was doing wrong. 
  
@@ -31,7 +31,7 @@ Coding for hours and hours on end without a break is what I am used to doing for
 
 When attempting the first problem it took me 30 minutes to solve. In my mind, I thought I did pretty well! Scrolling through the assignment page I looked for what to do next, but then anxiety-filled me… “I have to finish this assignment in 4-6 minutes !?!”. I was shocked, I did not understand how I would be able to achieve this. I decided that I would probably need to keep attempting this problem until I reached the desired time. Finally, on my 6th attempt, I was able to obtain a time of 3 min and 33 seconds. This style of learning is certainly different. However, I think that this type of “athletic software engineering” is useful in helping me to become more efficient and to think better under pressure. 
 
-<a href="https://www.computersciencedegreehub.com/faq/what-is-coding/">Image from the Computer Science Degree Hub</a> 
+<a href="https://webguruz.in/the-significance-of-coding-standards/">Image from the Computer Science Degree Hub</a> 
  
 
 
