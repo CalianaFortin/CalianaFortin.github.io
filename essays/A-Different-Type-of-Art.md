@@ -19,7 +19,7 @@ Personally, I have never learned how to make my own website. This was the first 
 
 ## Semantic UI 
 
-After learning the basics of HTML and CSS, we learned about semantic UI. To me personally semantic UI is very intuitive, and easy to use. You simply look up the type of element you want, paste the code into your IDE and then edit it to your liking. It was not too much different from just using CSS and HTML. The major difference between just using HTML and CSS, is that semantic UI is way more modern and better looking than just vanilla HTML and CSS. The design of each of the elements such as the menu or search bar are so much nicer. After learning a little bit of semantic UI, I can understand better about how modern websites are designed. The only major negative about using semantic ui as opposed to just HTML and CSS is that it is not very customizable. Countless number of times I would want to create a specifc style that I was not able to recreate using semantic ui. It is often difficult to edit certain elements from semantic UI, so sometimes I would just spend hours trying to inspect the element, and edit it from their only for it to not work. 
+After learning the basics of HTML and CSS, we learned about semantic UI. To me personally semantic UI is very intuitive, and easy to use. You simply look up the type of element you want, paste the code into your IDE and then edit it to your liking. It was not too much different from just using CSS and HTML. The major difference between just using HTML and CSS, is that semantic UI is way more modern and better looking than just vanilla HTML and CSS. The design of each of the elements such as the menu or search bar are so much nicer. After learning a little bit of semantic UI, I can understand better about how modern websites are designed. The only major negative about using semantic ui as opposed to just HTML and CSS is that it is not very customizable. Countless number of times I would want to create a specifc style that I was not able to recreate using semantic ui. It is often difficult to edit certain elements from semantic UI, so sometimes I would just spend hours trying to inspect the element, and find where to edit the element to get what I want it to do.
 
 ## My Perspective of Semantic UI
 
@@ -31,6 +31,6 @@ I think that learning webstie design is crucial for a software engineer. Its imp
 
 ## My Persepective of Web design
 
-Although I am only a beginner learning the basics of web design I can say that I have gained more apreciation of the visually stunning websites that I visit. It is honestly an art form to make a nice looking website with cool features. It takes a lot of effor to make something really beautiful to look at, so to me web design it definitely an art form that takes years to master. 
+Although I am only a beginner learning the basics of web design I can say that I have gained more apreciation of the visually stunning websites that I visit. It takes a lot of effort to make something really beautiful to look at, so to me web design truly is an art form that takes time to master. 
 
 
