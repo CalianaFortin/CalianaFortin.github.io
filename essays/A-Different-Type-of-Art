@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: A Different Type of art   
+date: 2020-09-24
+labels:
+  - Software Engineering
+  - Learning
+  - Coding Standards 
+---
+
+<img class="ui centered large image" src="../images/code-main.jpg">
+
+
+## What are Coding Standards?
+Coding Standards are basically a set of coding rules, guidelines, and best practices. An example of coding standards is the indentation of code or the way variables are named.
+
+
