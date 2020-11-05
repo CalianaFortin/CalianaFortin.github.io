@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: "Final Project Idea"
+date: 2020-11-01
+labels:
+  - Software Engineering
+  - Meteor
+---
+
 Project HACC: University of Hawaii – Visualizing Campus Occupancy Trends During (AND After) COVID-19 challenge from the Hawaiian Annual Code Challenge 
  
 Overview
