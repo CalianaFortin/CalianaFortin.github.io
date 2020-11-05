@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-<img class="ui centered medium image" src="../images/A-sigh-of-relief.jpg">
+<img class="ui centered medium image" src="../images/HACC.png">
 
 Project HACC: University of Hawaii – Visualizing Campus Occupancy Trends During (AND After) COVID-19 challenge from the Hawaiian Annual Code Challenge 
  
