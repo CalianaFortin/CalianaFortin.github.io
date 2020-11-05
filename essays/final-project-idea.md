@@ -12,7 +12,7 @@ labels:
 ## Project HACC: 
 University of Hawaii – Visualizing Campus Occupancy Trends During (AND After) COVID-19 challenge from the Hawaiian Annual Code Challenge 
  
-## Overview
+# Overview
 ## Problem:
 The challenge is to develop a way for the college to visualize occupancy of the campus.  The three current purposes are to assist in scheduling on the campus, assess social distancing and group density, and help with long term facility planning.  The application is intended for the university administration. The data available is anonymized to protect the identities of the visitors to the campus. 
  
