@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Solving the Puzzle    
-date: 2020-10-08
+date: 2020-12-03
 labels:
   - Learning
   - Design Patterns 
@@ -54,21 +54,21 @@ Here are some examples of where and how we ustilized these design patterns.
 
 An example of how observer is used in our project the publisher and subscriber implementation in our code. Basically, we publish the data and the subssribers make sure to update the other things if something was changed. Bellow is an image showing the publishing of our data collection and the subscribers. 
 
-<img class="ui centered medium image" src="../images/publish.png">
+<img class="ui centered large image" src="../images/publish.png">
 
 
-<img class="ui centered medium image" src="../images/subscribe.png">
+<img class="ui centered large image" src="../images/subscribe.png">
 
 
 MVC can be seen. The model is directly seen in our Data Collection then the view is the Datas.jsx where we loop through to create each row displaying the data. The file app.jsx is the controller and it connects the Model and the view so the user can input data. 
 
-<img class="ui centered Massive image" src="../images/datascollection.png">
+<img class="ui centered large image" src="../images/datascollection.png">
 
 
-<img class="ui centered Massive image" src="../images/Data.png">
+<img class="ui centered large image" src="../images/Data.png">
 
 
-<img class="ui centered Massive image" src="../images/controller.png">
+<img class="ui centered large image" src="../images/controller.png">
 
 
 
