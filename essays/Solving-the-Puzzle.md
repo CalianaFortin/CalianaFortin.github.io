@@ -8,7 +8,7 @@ labels:
   - Design Patterns 
 ---
 
-<img class="ui centered medium image" src="../images/Web design.png">
+<img class="ui centered medium image" src="../images/puzzle.jpg">
 
 
 ## Hitting A Brick Wall 
@@ -44,14 +44,27 @@ The Observer deisgn pattern is useful when a set of objects (called the "Observe
 
 MVC stands for model view controller. MVS is useful when implementing a user interface, it is desirable to decouple the internal representation of information from the way it is presented to and accepted from the user.
 
-## Design Patterns used in Campus Occupancy 
+## Solving the Puzzle: Design Patterns used in Campus Occupancy 
 
-In the Campus Occupancy project my team and I utilized the observer, MVC, singleton, and the factory design pattern. An example of how observer is used in our project the publisher and subscriber implementation in our code. Basically, we publish the data and the subssribers make sure to update the other things if something was changed. Bellow is an image showing the publishing of our data collection and the subscribers. 
+By utilizing the Design Patterns used in the Bowfolios template we were able to "solve the puzzle" and begin starting our project. 
 
-<img class="ui centered medium image" src="../images/Web design.png">
+In the Campus Occupancy project my team and I utilized the observer, MVC, singleton, and the factory design pattern. 
 
-MVC can be seen in our Data Collection below. The model is directly seen in our Data Collection then the view is the Datas.jsx where we loop through to create each row displaying the data. The file app.jsx is the controller and it connects the Model and the view so the user can input data. 
+Here are some examples of where and how we ustilized these design patterns. 
 
-<img class="ui centered medium image" src="../images/Web design.png">
+An example of how observer is used in our project the publisher and subscriber implementation in our code. Basically, we publish the data and the subssribers make sure to update the other things if something was changed. Bellow is an image showing the publishing of our data collection and the subscribers. 
+
+<img class="ui centered medium image" src="../images/publish.png">
+<img class="ui centered medium image" src="../images/subscribe.png">
+
+
+MVC can be seen. The model is directly seen in our Data Collection then the view is the Datas.jsx where we loop through to create each row displaying the data. The file app.jsx is the controller and it connects the Model and the view so the user can input data. 
+
+<img class="ui centered medium image" src="../images/datascollection.png">
+<img class="ui centered medium image" src="../images/Data.png">
+<img class="ui centered medium image" src="../images/controller.png">
+
+
+
 
 
