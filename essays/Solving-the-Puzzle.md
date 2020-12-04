@@ -46,6 +46,12 @@ MVC stands for model view controller. MVS is useful when implementing a user int
 
 ## Design Patterns used in Campus Occupancy 
 
-In the Campus Occupancy project my team and I utilized th.  e 
+In the Campus Occupancy project my team and I utilized the observer, MVC, singleton, and the factory design pattern. An example of how observer is used in our project the publisher and subscriber implementation in our code. Basically, we publish the data and the subssribers make sure to update the other things if something was changed. Bellow is an image showing the publishing of our data collection and the subscribers. 
+
+<img class="ui centered medium image" src="../images/Web design.png">
+
+MVC can be seen in our Data Collection below. The model is directly seen in our Data Collection then the view is the Datas.jsx where we loop through to create each row displaying the data. The file app.jsx is the controller and it connects the Model and the view so the user can input data. 
+
+<img class="ui centered medium image" src="../images/Web design.png">
 
 
