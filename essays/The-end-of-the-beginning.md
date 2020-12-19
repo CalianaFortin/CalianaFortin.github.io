@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The End of the Beginning   
-date: 2020-10-08
+date: 2020-12-18
 labels:
   - Learning
   - Website Design

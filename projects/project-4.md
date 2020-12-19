@@ -2,19 +2,24 @@
 layout: project
 type: project
 image: images/UHCAMPUSOCCUPANCY.jpg
-title: BEERSORTER
-permalink: projects/project4
+title: Campus Occupancy Application
+permalink: projects/CampusOccupancy
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-29
+date: 2020-12-18
 labels:
-  - C++
-  - C
-summary: An implementation of the record application with new features, created in ICS 212.
+  - Javascript
+  - Meteor 
+  - React
+summary: This is an applicatio which visualizes the occupancy of people on the UH Campus. 
 ---
 
 <img class="ui image" src="../images/ICS211Proj.png" alt="NONE">
 
-For this project I implemented a beer sorter that sorted the beer based on the IBU and ABV. The user was to enter a beer specifying the type which could be Indian Pale Ale, Bohemian Pilsner, and Pilsner. Next, the user entered the IBU and ABV of the beer. The list then took the beer and sorted them in ascending order. Most of the code was implemented by me however the TA provided some code to help with the implementation of some functions such as the beer type and user interface.
+The idea for this project came from the HACC 2020 challenge. My team and I chose to tackle the campus visualization issue. However, due to time constraints we were unable to finish the projec in time for the competion however, despite this we decided to push on and use this as our final project.
+
+##Features
+
+<img class="ui image" src="../images/ICS211Proj.png" alt="NONE">
 
 ## What I learned:
 
