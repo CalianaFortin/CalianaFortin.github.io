@@ -8,7 +8,7 @@ labels:
   - Website Design
 ---
 
-<img class="ui centered medium image" src="../images/My-Post-9.png" alt="NONE">
+<img class="ui centered image" src="../images/My-Post-9.png" alt="NONE">
 
 
 ## The end of the beginning
