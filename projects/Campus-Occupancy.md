@@ -28,7 +28,7 @@ The Campus Occupany application features a landing page which allows the user to
 
 When a user creates an account they are able to view a data page. This data page allows them to view the data of occupancy in a table format. They are also able to access an import data page which allows them to import their data to create a new visualization. 
 
-<img class="ui image" src="../images/University of Hawaii Campus Occupancy DATA.png" alt="NONE">
+<img class="ui image" src="../images/University of Hawaii Campus Occupancy DATA.png" alt="University of Hawaii Campus Occupancy DATA.png">
 
 <img class="ui image" src="../images/University of Hawaii Campus Occupancy IMPORT DATA.png" alt="NONE">
 
