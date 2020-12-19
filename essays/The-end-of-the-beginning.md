@@ -18,7 +18,7 @@ Before taking this class I was quite new to the process of app development. I di
 
 ## Organization is a Life Skill
 
-“Clutter is not just physical stuff. It’s old ideas, toxic relationships, and bad habits. Clutter is anything that does not support your better self.” – Eleanor Brown
+ > “Clutter is not just physical stuff. It’s old ideas, toxic relationships, and bad habits. Clutter is anything that does not support your better self.” – Eleanor Brown
 
 Coding Standards are basically a set of coding rules, guidelines, and best practices. An example of coding standards is the indentation of code or the way variables are named. This concept is honestly one of the most important things I learned from this class. Not only is the concept of Coding Standards applicable to programming but I believe it can also be applied to real life. The main goal of Coding Standards is to improve the quality of code by using a set of guidelines, and practices, which I think is applicable to real life. I believe that living a cluttered life affects the quality of living, thus one way to improve the quality of living is by getting rid of bad habits and setting guidelines for daily life. The enforcing of a guideline or rule helps to build discipline, thus improving our lives. Overall, similar to how coding standards make coding easier, organization makes life easier.
 
