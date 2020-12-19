@@ -3,6 +3,7 @@ layout: project
 type: project 
 image: images/UH-occupancy.png
 title: Campus Occupancy 
+permalink: projects/micromouse
 date: 2020-12-18
 labels:
   - Robotics
