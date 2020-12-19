@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: CalianaFortin.github.io/images/University of Hawaii Campus Occupancy.png
+image: CalianaFortin.github.io/images/University-of-Hawaii-Campus-Occupancy.png
 title: Campus Occupancy
 permalink: projects/CampusOccupancy
 # All dates must be YYYY-MM-DD format!
