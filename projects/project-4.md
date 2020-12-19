@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ICS211.png
+image: images/UHCAMPUSOCCUPANCY.jpg
 title: Beer Sorter
 permalink: projects/project4
 # All dates must be YYYY-MM-DD format!
