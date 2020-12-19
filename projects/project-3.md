@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: CalianaFortin.github.io/images/ICS211.png
+image: images/ICS211.png
 title: Beer Sorter
 permalink: projects/ICS211
 # All dates must be YYYY-MM-DD format!
