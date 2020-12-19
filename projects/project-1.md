@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: CalianaFortin.github.io/images/ICS212.png
+image: CalianaFortin.github.io/images/University-of-Hawaii-Campus-Occupancy.png
 title: ICS 212 Project 1 - record application
 permalink: projects/ICS212project-1
 # All dates must be YYYY-MM-DD format!
