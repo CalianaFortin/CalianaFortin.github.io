@@ -5,10 +5,11 @@ image: images/UHCAMPUSOCCUPANCY.jpg
 title: Campus Occupancy
 permalink: projects/CampusOccupancy
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-18
+date: 2019-09-29
 labels:
-  - Javascript
-summary: A beer sorter I made for ICS 211.
+  - C++
+  - C
+summary: An implementation of the record application with new features, created in ICS 212.
 ---
 
 <img class="ui image" src="../images/ICS211Proj.png" alt="NONE">
