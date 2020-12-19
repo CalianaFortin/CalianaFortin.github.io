@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/M3-Landing-page-display.jpg
+image: images/UHCAMPUSOCCUPANCY.jpg
 title: Campus Occupancy
 permalink: projects/Campus-Occupancy
 # All dates must be YYYY-MM-DD format!
