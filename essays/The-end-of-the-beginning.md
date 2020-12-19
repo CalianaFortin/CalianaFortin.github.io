@@ -11,7 +11,7 @@ labels:
 <img class="ui centered image" src="../images/My-Post-9.png" alt="NONE">
 
 
-## The end of the beginning
+## The End of the Beginning
 
 Before taking this class I was quite new to the process of app development. I did not know what was needed to create a website or how to utilize a simple div. I was actually quite worried that I would not be able to create an app or even a website for that matter. However, ICS 314 allowed me to gain many valuable skills that not only can be used to develop an app but also in real life. 
 
