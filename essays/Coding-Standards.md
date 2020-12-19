@@ -11,7 +11,7 @@ labels:
 
 <img class="ui centered large image" src="../images/code-main.jpg" alt="NONE">
 
-Picture this, you are working on a group project where each of you need to write a paragraph. One person in the group decided to write in 18 size Papyrus font, and another person decided to write in 9 size comic sans font. As a result of these choices the paper becomes difficult to read and to fix. The scenario I just described is exactly why Coding standards is a thing. 
+Picture this, you are working on a group project where each of you need to write a paragraph. One person in the group decided to write in 18 size Papyrus font, and another person decided to write in 9 size comic sans font. As a result of these choices the paper becomes difficult to read and fix. The scenario I just described is exactly why Coding standards is a thing. 
 
 ## What are Coding Standards?
 Coding Standards are basically a set of coding rules, guidelines, and best practices. An example of coding standards is the indentation of code, or the way variables are named.
