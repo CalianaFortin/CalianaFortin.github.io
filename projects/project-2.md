@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ICS212Project2.png
+image: CalianaFortin.github.io/images/ICS212Project2.png
 title: Record application - New Features
 permalink: projects/ICS212Project-2
 # All dates must be YYYY-MM-DD format!
