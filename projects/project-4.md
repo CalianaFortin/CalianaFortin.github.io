@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: CalianaFortin.github.io/images/ICS212.png
+image: CalianaFortin.github.io/images/University of Hawaii Campus Occupancy.png
 title: Campus Occupancy
-permalink: projects/ICS212project-1
+permalink: projects/CampusOccupancy
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
-  - C++
-  - C
-summary: A project for the class ICS 212. The first implementation of a record application.
+  - Javascript
+  - React 
+  - Meteor 
+summary: A project for the class ICS 314. The goal of this project was show the visualization of people occupying the UH campus.
 ---
 
 <img class="ui floated rounded image" src="/images/ICS212Proj1.png" alt="NONE">
