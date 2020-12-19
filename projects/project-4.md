@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/UHCAMPUSOCCUPANCY.jpg
-title: Campus Occupancy
+title: BEERSORTER
 permalink: projects/project4
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-29
