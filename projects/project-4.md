@@ -16,7 +16,7 @@ summary: This is an applicatio which visualizes the occupancy of people on the U
 
 The idea for this project came from the HACC 2020 challenge. My team and I chose to tackle the campus visualization issue. However, due to time constraints we were unable to finish the projec in time for the competion however, despite this we decided to push on and use this as our final project.
 
-##Features
+## Features
 
 <img class="ui image" src="../images/ICS211Proj.png" alt="NONE">
 
