@@ -1,13 +1,15 @@
 ---
 layout: project
 type: project
-image: images/ICS211.png
+image: images/University-of-Hawaii-Campus-Occupancy.png
 title: Beer Sorter
 permalink: projects/CampusOccupancy
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2020-12-18
 labels:
-  - Java
+  - Javascript 
+  - Meteor 
+  - React
 summary: A beer sorter I made for ICS 211.
 ---
 
