@@ -22,17 +22,17 @@ The idea for this project came from the HACC 2020 challenge. My HACC team consis
 
 The Campus Occupany application features a landing page which allows the user to see a map of the UH campus, and the occupancy of people in each of the buildings. A legend is provided at the bottom of the map to help the user decipher which of the buildings are most occupied. Green buildings are less occupied and red building are very occupied. Not only is the user able to see this visualization, but they are also able to see the visualtions of other dates and times. Simply just click in the drop down menu and select the date/time you would like to view. 
 
-<img class="ui medium centered image" src="../images/UHOCCUPANCYLAND.png" alt="NONE">
+<img class="ui centered medium image" src="../images/UHOCCUPANCYLAND.png" alt="NONE">
 
 
-<img class="ui medium centered image" src="../images/UHDROP.png" alt="NONE">
+<img class="ui centered medium image" src="../images/UHDROP.png" alt="NONE">
 
 When a user creates an account they are able to view a data page. This data page allows them to view the data of occupancy in a table format. They are also able to access an import data page which allows them to import their data to create a new visualization. 
 
-<img class="ui medium centered image" src="../images/Occupancy DATA.png" alt="Occupancy DATA.png">
+<img class="ui centered medium image" src="../images/Occupancy DATA.png" alt="Occupancy DATA.png">
 
 
-<img class="ui medium centered image" src="../images/University of Hawaii Campus Occupancy IMPORT DATA.png" alt="NONE">
+<img class="ui centered medium image" src="../images/University of Hawaii Campus Occupancy IMPORT DATA.png" alt="NONE">
 
 ## What I learned:
 
