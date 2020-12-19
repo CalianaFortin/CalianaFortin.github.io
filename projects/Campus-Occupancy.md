@@ -45,8 +45,8 @@ I personally plan to take the experience that I learned from doing this project 
 ## Project
 
 You can visit my project here: 
-GitHub Repository: <a href="https://github.com/campus-occupancy/campus-occupancy"></i>Campus Occupancy Application</a>
+GitHub Repository: <a href="https://github.com/campus-occupancy/campus-occupancy">Campus Occupancy Application</a>
 
-GitHub IO: <a href="https://campus-occupancy.github.io/"></i>Campus Occupancy Documentation</a>
+GitHub IO: <a href="https://campus-occupancy.github.io/">Campus Occupancy Documentation</a>
 
 
