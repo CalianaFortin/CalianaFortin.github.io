@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The end of the beginning   
+title: The End of the Beginning   
 date: 2020-10-08
 labels:
   - Learning
