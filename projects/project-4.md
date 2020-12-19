@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: images/UHCAMPUSOCCUPANCY.jpg
-title: Beer Sorter
-permalink: projects/project4
+title: Campus Occupancy
+permalink: projects/CampusOccupancy
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2020-12-18
 labels:
-  - Java
+  - Javascript
 summary: A beer sorter I made for ICS 211.
 ---
 
