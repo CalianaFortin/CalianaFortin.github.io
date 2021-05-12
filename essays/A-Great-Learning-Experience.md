@@ -24,7 +24,7 @@ Making a mockup of the website was challenging. I had no creative direction of w
 
 <p float="left">
   <img src="../images/PlexInspiration.png" alt="NONE" width="100" />
-  <img src="../images/Mockup.png" alt="NONE" width="100" /> 
+  <img src="../images/MockupBoxes.png" alt="NONE" width="100" /> 
 </p>
 
 As a group we chose blue and green as a color scheme. Although I have never created a website like this before I decided to take the risk since I wanted to learn as much as I could this semester. I was ready to challenge myself to create something a little more harder. A full documentation of our project can be found here https://shocking-development.github.io/. 
