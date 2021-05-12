@@ -20,10 +20,10 @@ Working in a group is always a great learning experience. You learn how to work 
 We were given the prompt of making a web application for HEI, specifically our client was Creighton Liu from HEI. Creighton wanted us to make a GHG tracker that showed the user savings based on their choice of transportation. The prompt was very much an open concept, we had creative control of the design of the UI, and with our goal out of the way we started on the mockups for the website. 
 
 ## The Mockup
-Making a mockup of the website was challenging. I had no creative direction of what the client wanted the website to look like, so I had to find creative inspiration from other websites. One of the websites that I found creative inspiration was from the Plex website. I particularly liked the format of the navbar and the boxes, so I tried to translate that into my mockup of the landing page. <img class="ui centered medium image" src="../images/PlexInspiration.png" alt="NONE">
+Making a mockup of the website was challenging. I had no creative direction of what the client wanted the website to look like, so I had to find creative inspiration from other websites. One of the websites that I found creative inspiration was from the Plex website. I particularly liked the format of the navbar and the boxes, so I tried to translate that into my mockup of the landing page. <img class="ui right medium image" src="../images/PlexInspiration.png" alt="NONE">
 
 As a group we chose blue and green as a color scheme. Although I have never created a website like this before I decided to take the risk since I wanted to learn as much as I could this semester. I was ready to challenge myself to create something a little more harder. 
-<img class="ui centered medium image" src="../images/Mockup.png" alt="NONE">
+<img class="ui right medium image" src="../images/Mockup.png" alt="NONE">
 A full documentation of our project can be found here https://shocking-development.github.io/. 
 
 
