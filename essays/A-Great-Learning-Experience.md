@@ -23,8 +23,8 @@ We were given the prompt of making a web application for HEI, specifically our c
 Making a mockup of the website was challenging. I had no creative direction of what the client wanted the website to look like, so I had to find creative inspiration from other websites. One of the websites that I found creative inspiration was from the Plex website. I particularly liked the format of the navbar and the boxes, so I tried to translate that into my mockup of the landing page.
 
 <p float="left">
-  <img src="../images/PlexInspiration.png" alt="NONE" width="400" />
-  <img src="../images/MockupBoxes.png" alt="NONE" width="400" /> 
+  <img src="../images/PlexInspiration.png" alt="NONE" width="350px" />
+  <img src="../images/MockupBoxes.png" alt="NONE" width="339px" /> 
 </p>
 
 As a group we chose blue and green as a color scheme. Although I have never created a website like this before I decided to take the risk since I wanted to learn as much as I could this semester. I was ready to challenge myself to create something a little more harder. A full documentation of our project can be found here https://shocking-development.github.io/. 
