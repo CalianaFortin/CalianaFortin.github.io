@@ -55,7 +55,7 @@ The image below demonstrates how much I reduced the size of the window. *As a no
 
 One minor thing that could be improved is the font. I think the font of UHM/ICS should be kept consistent throughout the landing page. I believe that this is the only instance of the font being different on the landing page. Overall, I think it would make the page slightly more cohesive. 
 
-<img class="ui centered medium image" src="../images/RadGrad(2)LandingFont.png" alt="NONE">
+<img class="ui centered image" src="../images/RadGrad(2)LandingFont.png" alt="NONE">
 
 ### Functionality
 
@@ -67,9 +67,9 @@ The page in general works pretty well. It loads fast and everything works for th
 
 One bug I found is that if you click on certain areas of the button the drop down won’t come up and the text disappears (*note this is not the case on firefox, instead the text does not disappear, so far only on chrome*). Considering that this is the login button, I think it is quite crucial to make sure that this works completely. This goes for the buttons at the bottom of the page. *As a side note I have tested this landing page on both firefox and chrome, however I have not tested it on safari.* 
 
-<img class="ui centered medium image" src="../images/RadGrad(2)-LandingLoginButton.png" alt="NONE">
+<img class="ui centered image" src="../images/RadGrad(2)-LandingLoginButton.png" alt="NONE">
 
-<img class="ui centered medium image" src="../images/RadGrad(2)LandingPageButtons.png" alt="NONE">
+<img class="ui centered image" src="../images/RadGrad(2)LandingPageButtons.png" alt="NONE">
 
 ## Impressions of the Home page
 
@@ -77,7 +77,7 @@ One bug I found is that if you click on certain areas of the button the drop dow
 *Style Rating: 4.5/5*  
 The home page is pleasing to look at the layout is simple and straightforward. The colors are cohesive with the landing page. All in all a clean UI.
 
-<img class="ui centered medium image" src="../images/RadGrad(2)LoggedInLandingPage1stTime.png" alt="NONE">
+<img class="ui centered image" src="../images/RadGrad(2)LoggedInLandingPage1stTime.png" alt="NONE">
 
 One small thing I would change is the padding of the text near the legend. To me, it feels a little squished. 
 
@@ -91,19 +91,19 @@ Right now the Home page is okay in functionality, I think that it is definitely 
 
 Accepting the terms and conditions was one the tasks I had to do. When clicking the button to view the terms and conditions it took me to this page. Overall I think the styling okay but there should be padding at the bottom to make it feel less abrupt. I also think that a consent button should be added instead of the user having to navigate back to their home page to consent to the terms and conditions.
 
-<img class="ui centered medium image" src="../images/RadGrad(2)-TermsAndConditions.png" alt="NONE">
+<img class="ui centered image" src="../images/RadGrad(2)-TermsAndConditions.png" alt="NONE">
 
 ### Courses on the To Do List
 
 The courses on the to do list are bugged for me. I had already completed every single course on that list. Some of the courses I have recently completed, which may be the reason for ICS 312 and ICS 321 being there, but I completed ICS 241 like two semesters ago.
 
-<img class="ui centered medium image" src="../images/Radgrad(2)TodoList.png" alt="NONE">
+<img class="ui centered image" src="../images/Radgrad(2)TodoList.png" alt="NONE">
 
 ### Opportunities on the To Do List
 
 One bug I encountered when trying to complete a task was that when I had added an opportunity to my profile it had still said no opportunities were added.
 
-<img class="ui centered medium image" src="../images/RadGrad(2)OpportunitiesAdded.png" alt="NONE">
+<img class="ui centered image" src="../images/RadGrad(2)OpportunitiesAdded.png" alt="NONE">
 
 
 
