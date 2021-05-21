@@ -41,21 +41,21 @@ Although RadGrad excels at many of its goals I think it lacks in their diversity
 
 ## How RadGrad2 Could Improve on Diversity
 
-Getting underrepresented groups such as women or minorities to pursue and stick with the CS path is a hard goal to achieve for various reasons. As mentioned in Removing the 'Extra' from Extracurricular to Improve Student Engagement, Retention, and Diversity, the lack of diversity is often stemmed from various places such as the fact that “... female students are less likely than male students to be told they would be good at computer science”. 
+Getting underrepresented groups such as women or minorities to pursue and stick with the CS path is a hard goal to achieve for various reasons. As mentioned in [Removing the 'Extra' from Extracurricular to Improve Student Engagement, Retention, and Diversity](https://csdl.ics.hawaii.edu/techreports/2019/19-04/19-04.pdf), the lack of diversity is often stemmed from various places such as the fact that “... female students are less likely than male students to be told they would be good at computer science”. 
 
-One of things I struggled with as a female pursuing the CS field is the lack of female representation, specifically the amount of female professors available for various courses. Unfortunately there isn’t a fully good solution for this, but I think that maybe if RadGrad2 could poll female students about their feelings on computer science courses (specifically if they would prefer to have more courses taught by females) then maybe it could help bring the problem to light. 
+One of things I struggled with as a female pursuing the CS field is the lack of female representation, specifically the amount of female professors available for various courses. Unfortunately there isn’t a easy solution for this, but I think that maybe if RadGrad2 could poll female students about their feelings on computer science courses (specifically if they would prefer to have more courses taught by females) then maybe it could help bring the problem to light. 
 
 ## Pilot Study
 
 I think it would be a great idea to aim the pilot study at different demographics for example:
 
 The first study could target students/people who have just graduated. The question(s) could be something like this:
-Did you use Radgrad?
-If yes, what are some of your favorite features?
-What were some of your least favorite features?
-If no, could you explain why?  
+- Did you use Radgrad?
+- If yes, what are some of your favorite features?
+- What were some of your least favorite features?
+- If no, could you explain why?  
 
 Then the study could target the freshmen and sophomores of the CS program. The questions could be something like:
-Do you plan to use RadGrad? 
-If yes, please explain your reason.
-If not, please explain why.
+- Do you plan to use RadGrad? 
+- If yes, please explain your reason.
+- If not, please explain why.
