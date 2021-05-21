@@ -65,7 +65,28 @@ The page in general works pretty well. It loads fast and everything works for th
 
 ### The Buttons
 
-One bug I found is that if you click on certain areas of the button the drop down won’t come up and the text disappears (note this is not the case on firefox, instead the text does not disappear, so far only on chrome). Considering that this is the login button, I think it is quite crucial to make sure that this works completely. This goes for the buttons at the bottom of the page. As a side note I have tested this landing page on both firefox and chrome, however I have not tested it on safari. 
+One bug I found is that if you click on certain areas of the button the drop down won’t come up and the text disappears (*note this is not the case on firefox, instead the text does not disappear, so far only on chrome*). Considering that this is the login button, I think it is quite crucial to make sure that this works completely. This goes for the buttons at the bottom of the page. *As a side note I have tested this landing page on both firefox and chrome, however I have not tested it on safari.* 
+
+<img class="ui centered medium image" src="../images/RadGrad(2)-LandingLoginButton.png" alt="NONE">
+
+<img class="ui centered medium image" src="../images/RadGrad(2)LandingPageButtons.png" alt="NONE">
+
+## Impressions of the Home page
+
+### Styling 
+*Style Rating: 4.5/5*  
+The home page is pleasing to look at the layout is simple and straightforward. The colors are cohesive with the landing page. All in all a clean UI.
+
+<img class="ui centered medium image" src="../images/RadGrad(2)LoggedInLandingPage1stTime.png" alt="NONE">
+
+One small thing I would change is the padding of the text near the legend. To me, it feels a little squished. 
+
+Functionality:
+
+Functionality Rating: 3/5
+
+Right now the Home page is okay in functionality, I think that it is definitely lacking in some things that would make it a 5/5.
+
 
 
 
