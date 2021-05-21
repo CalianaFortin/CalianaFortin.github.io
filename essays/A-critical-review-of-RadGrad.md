@@ -177,7 +177,7 @@ One of the bugs I noticed with the review page was that when I would submit a re
 
 ## Impressions Interests Page Viewed Interest
 
-One of the interests I viewed was the algorithms topic. The thing that I noticed is that it lists all the students interested in this topic. Personally I think it would better to limit the amount of students shown.
+One of the interests I viewed was the aritificial inteligence topic. The thing that I noticed is that it lists all the students interested in this topic. Personally I think it would better to limit the amount of students shown.
 
 <img class="ui centered image" src="../images/RadGrad(2)InterestsStudents.png" alt="NONE">
 
