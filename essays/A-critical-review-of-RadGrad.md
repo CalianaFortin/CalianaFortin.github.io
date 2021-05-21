@@ -145,28 +145,42 @@ Another feature that could be improved is the add year button. Currently, after 
 <img class="ui centered image" src="../images/RadGrad(2)AddYearButton.png" alt="NONE">
 
 
+### The Opportunities in the Planner 
+
+This is the same error as the home page to do list. After adding some opportunities it did not appear in the respective tab.
+
+<img class="ui centered image" src="../images/RadGrad(2)PlannerOpportunities.png" alt="NONE">
+
+## Impressions of the Review Page
+
+### Styling
+*Styling Rating: 5/5* 
+I think the styling is quite nice and straightforward. 
 
 
+### Functionality
+*Funtionality Rating: 3/5*
+
+<img class="ui centered image" src="../images/RadGrad(2)ReviewDropDown.png" alt="NONE">
+
+When writing my review I noticed that the courses used their full course title, which is fine but personally I know most of my courses by the number and course alpha. So personally I think that it would be nice to see that in addition to the course title. 
+
+<img class="ui centered image" src="../images/Radgrad(2)ReviewPage.png" alt="NONE">
+
+One of the bugs I noticed with the review page was that when I would submit a review it would say that I haven’t made a review on this course. It also made it seem like I did not add my review because it kept my previous information there.
+
+## Impressions Interests Page Viewed Interest
+
+One of the interests I viewed was the algorithms topic. This thing that I noticed is that it lists all the students interested in this topic. Personally I think it would better to limit the amount of students shown.
+
+<img class="ui centered image" src="../images/RadGrad(2)InterestsStudents.png" alt="NONE">
 
 
+## Impressions of the Visibility Page
 
+Overall the styling is nice but the I think that a confirm visibility changes button should be present.
 
-
-
-
-
-
-
-
-
-
-
-
-<p float="left">
-  <img src="../images/PlexInspiration.png" alt="NONE" width="350px" />
-  <img src="../images/MockupBoxes.png" alt="NONE" width="339px" /> 
-</p>
-
+<img class="ui centered image" src="../images/RadGrad(2)VisibilityChanges.png" alt="NONE">
 
 
 
