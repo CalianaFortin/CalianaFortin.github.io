@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: A Different Type of art   
-date: 2020-10-08
+title: Reviewing RadGrad as a Research Project  
+date: 2020-05-21
 labels:
   - Learning
   - Website Design
