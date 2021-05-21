@@ -14,22 +14,28 @@ labels:
 ## RadGrad Strengths
 Personally these are the three biggest strengths of Radgrad that I found while using the system:
 1. It provides the student/user with most and if not all of the things they need to build their portfolio/skills. (A one stop shop)
+
 RadGrad provides students with reviews of courses, an academic planner, and opportunities such as internships tailored to their interests. I think that RadGrad minimizes the need to google reviews on courses and opportunities. It allows students to get it done all in one place.
 
 2. It provides goals for students to achieve.
+
 I think that RadGrad removes the guesswork, of having to figure out how many internships or clubs are enough to be a good candidate for jobs in the future. Radgrad provides students with this information through ICE points.
 
 3. RadGrad is easy to use.
+
 In general Radgrad is an easy application to use. I like that I don’t have to look at a tutorial to use the website.
 
 ## RadGrad Weaknesses
 1. Its hard to get students to consistently use RadGrad. 
+
 One of my personal experiences with RadGrad is that I only used it for half a semester as a freshmen. I think that at the time the opportunities with RadGrad were not fully articulated or explained. My advisor never pushed me to use it, so I didn’t.
 
 2. There’s a lot of bugs. 
+
 RadGrad currently has a lot of bugs which make it the site slightly hard to use. Despite this I think the overall experience was not too bad.
 
 3. The current layout does not work in a smaller window size.
+
 Currently RadGrad does not fully work in smaller window sizes which to me is a definite downside.
 
 ## Impressions of the Lannding Page 
