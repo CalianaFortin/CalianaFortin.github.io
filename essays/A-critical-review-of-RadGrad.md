@@ -178,7 +178,7 @@ One of the interests I viewed was the algorithms topic. This thing that I notice
 
 ## Impressions of the Visibility Page
 
-Overall the styling is nice but the I think that a confirm visibility changes button should be present.
+Overall the styling is nice but I think that a confirm visibility changes button should be present.
 
 <img class="ui centered image" src="../images/RadGrad(2)VisibilityChanges.png" alt="NONE">
 
