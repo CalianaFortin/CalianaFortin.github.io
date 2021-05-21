@@ -38,7 +38,7 @@ Currently RadGrad does not fully work in smaller window sizes which to me is a d
 *Style Rating: 3.5/5* 
 <img class="ui centered medium image" src="../images/RadGrad(2)LandingPage1stImpressions.png" alt="NONE">
 
-Overall, I think the styling of the landing page is pleasant. Its short, clean and concise. The various shades of green chosen for the color scheme help contribute to the clean look. I also like that after listing the facts, the website prompts the user to get started, get more information, or browse the explorers. So all in all the layout is very pleasing. However, I think there still could be styling improvements to improve the landing page. 
+Overall, I think the styling of the landing page is pleasant. Its short, clean and concise. The various shades of green chosen for the color scheme help contribute to the clean look. I also like that after listing the facts, the website prompts the user to get started, get more information, or browse the explorers. So all in all the layout is very pleasing. However, I think there could be some styling improvements. 
 
 ### The Window Size
 
@@ -101,7 +101,7 @@ The courses on the to do list are bugged for me. I had already completed every s
 
 ### Opportunities on the To Do List
 
-One bug I encountered when trying to complete a task was that when I had added an opportunity to my profile it had still said no opportunities were added.
+One bug I encountered when trying to complete a task was that when I had added an opportunity to my profile it still said no opportunities were added.
 
 <img class="ui centered medium image" src="../images/RadGrad(2)OpportunitiesAdded.png" alt="NONE">
 
@@ -115,7 +115,7 @@ The overall styling of these pages are very nice. Again they feel very clean and
 ### Functionality
 *Functionality: 4/5* 
 
-I think the overall provided functionality of all these pages are good. However, given the sheer amount of interests, opportunities, careers, and courses I think it would be a good idea to add a search bar to make it easier for the user to find said course of interest.
+I think the overall provided functionality of all these pages are good. However, given the sheer amount of interests, opportunities, careers, and courses I think it would be a good idea to add a search bar to make it easier for the user to find said course or interest.
 
 <img class="ui centered image" src="../images/RadGrad(2)Interests(searchField).png" alt="NONE">
 
@@ -132,7 +132,7 @@ I think some of the feature are bugged which makes the planner a little hard to 
 
 ### The Courses
 
-One of my main complaints of this page is that the courses are hard to select. The gif below demonstrates this.
+One of my main complaints of this page is that the courses are hard to select.
 
 <img class="ui centered image" src="../images/RadGrad(2)PlannerPage.png" alt="NONE">
 
@@ -163,7 +163,7 @@ I think the styling is quite nice and straightforward.
 
 <img class="ui centered image" src="../images/RadGrad(2)ReviewDropDown.png" alt="NONE">
 
-When writing my review I noticed that the courses used their full course title, which is fine but personally I know most of my courses by the number and course alpha. So personally I think that it would be nice to see that in addition to the course title. 
+When writing my review I noticed that the courses used their full course title, which is fine but personally I know most of my courses by the number and course alpha. So I think that it would be nice to see that in addition to the course title. 
 
 <img class="ui centered image" src="../images/Radgrad(2)ReviewPage.png" alt="NONE">
 
@@ -171,7 +171,7 @@ One of the bugs I noticed with the review page was that when I would submit a re
 
 ## Impressions Interests Page Viewed Interest
 
-One of the interests I viewed was the algorithms topic. This thing that I noticed is that it lists all the students interested in this topic. Personally I think it would better to limit the amount of students shown.
+One of the interests I viewed was the algorithms topic. The thing that I noticed is that it lists all the students interested in this topic. Personally I think it would better to limit the amount of students shown.
 
 <img class="ui centered image" src="../images/RadGrad(2)InterestsStudents.png" alt="NONE">
 
