@@ -103,7 +103,53 @@ The courses on the to do list are bugged for me. I had already completed every s
 
 One bug I encountered when trying to complete a task was that when I had added an opportunity to my profile it had still said no opportunities were added.
 
-<img class="ui centered image" src="../images/RadGrad(2)OpportunitiesAdded.png" alt="NONE">
+<img class="ui centered medium image" src="../images/RadGrad(2)OpportunitiesAdded.png" alt="NONE">
+
+## Impressions on the Interests, Careers, Courses, Opportunities Pages
+
+### Styling
+*Styling Rating: 5/5*
+
+The overall styling of these pages are very nice. Again they feel very clean and cohesive with the rest of the site. 
+
+### Functionality
+*Functionality: 4/5* 
+
+I think the overall provided functionality of all these pages are good. However, given the sheer amount of interests, opportunities, careers, and courses I think it would be a good idea to add a search bar to make it easier for the user to find said course of interest.
+
+<img class="ui centered image" src="../images/RadGrad(2)Interests(searchField).png" alt="NONE">
+
+## Impressions on the Planner Page
+
+### Styling
+*Styling Rating: 5/5*
+
+The overall styling of these pages are very nice. Again they feel very clean and cohesive with the rest of the site. 
+
+### Functionality
+*Functionality Rating: 3/5*
+I think some of the feature are bugged which makes the planner a little hard to use.
+
+### The Courses
+
+One of my main complaints of this page is that the courses are hard to select. The gif below demonstrates this.
+
+<img class="ui centered image" src="../images/RadGrad(2)PlannerPage.png" alt="NONE">
+
+<img class="ui centered medium image" src="../images/hardToclickCourses.gif" alt="NONE">
+
+### The Add Year Button:
+
+Another feature that could be improved is the add year button. Currently, after adding one year the button goes dark making it seem disabled, but when clicking it you can add another year.
+
+<img class="ui centered image" src="../images/RadGrad(2)AddYearButton.png" alt="NONE">
+
+
+
+
+
+
+
 
 
 
