@@ -46,12 +46,30 @@ When changing the window size the landing page begins to look a little broken. T
 
 <img class="ui centered medium image" src="../images/RadGrad(2)SmallerMediaLength.png" alt="NONE">
 
-The image below demonstrates how much I reduced the size of the window. As a note I am working on a macbook pro with a 13 inch screen.
+The image below demonstrates how much I reduced the size of the window. *As a note I am working on a macbook pro with a 13 inch screen.*
+
+<img class="ui centered medium image" src="../images/WindowSize.png" alt="NONE">
 
 
 ### The Font
 
 One minor thing that could be improved is the font. I think the font of UHM/ICS should be kept consistent throughout the landing page. I believe that this is the only instance of the font being different on the landing page. Overall, I think it would make the page slightly more cohesive. 
+
+<img class="ui centered medium image" src="../images/RadGrad(2)LandingFont.png" alt="NONE">
+
+### Functionality
+
+*Functionality Rating: 3.5/5*
+
+The page in general works pretty well. It loads fast and everything works for the most part (i.e the buttons for the most part provide the respective dropdown).
+
+### The Buttons
+
+One bug I found is that if you click on certain areas of the button the drop down won’t come up and the text disappears (note this is not the case on firefox, instead the text does not disappear, so far only on chrome). Considering that this is the login button, I think it is quite crucial to make sure that this works completely. This goes for the buttons at the bottom of the page. As a side note I have tested this landing page on both firefox and chrome, however I have not tested it on safari. 
+
+
+
+
 
 
 
