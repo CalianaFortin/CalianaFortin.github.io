@@ -52,7 +52,7 @@ I think it would be a great idea to aim the pilot study at different demographic
 The first study could target students/people who have just graduated. The question(s) could be something like this:
 - Did you use Radgrad?
 - If yes, what are some of your favorite features?
-- What were some of your least favorite features?
+	- What were some of your least favorite features?
 - If no, could you explain why?  
 
 Then the study could target the freshmen and sophomores of the CS program. The questions could be something like:
