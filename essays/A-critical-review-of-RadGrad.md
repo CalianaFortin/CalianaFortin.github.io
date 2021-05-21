@@ -81,11 +81,32 @@ The home page is pleasing to look at the layout is simple and straightforward. T
 
 One small thing I would change is the padding of the text near the legend. To me, it feels a little squished. 
 
-Functionality:
+### Functionality
 
-Functionality Rating: 3/5
+*Functionality Rating: 3/5*
 
 Right now the Home page is okay in functionality, I think that it is definitely lacking in some things that would make it a 5/5.
+
+### The Tasks Accepting Terms and Conditions  
+
+Accepting the terms and conditions was one the tasks I had to do. When clicking the button to view the terms and conditions it took me to this page. Overall I think the styling okay but there should be padding at the bottom to make it feel less abrupt. I also think that a consent button should be added instead of the user having to navigate back to their home page to consent to the terms and conditions.
+
+<img class="ui centered medium image" src="../images/RadGrad(2)-TermsAndConditions.png" alt="NONE">
+
+### Courses on the To Do List
+
+The courses on the to do list are bugged for me. I had already completed every single course on that list. Some of the courses I have recently completed, which may be the reason for ICS 312 and ICS 321 being there, but I completed ICS 241 like two semesters ago.
+
+<img class="ui centered medium image" src="../images/Radgrad(2)TodoList.png" alt="NONE">
+
+### Opportunities on the To Do List
+
+One bug I encountered when trying to complete a task was that when I had added an opportunity to my profile it had still said no opportunities were added.
+
+<img class="ui centered medium image" src="../images/RadGrad(2)OpportunitiesAdded.png" alt="NONE">
+
+
+
 
 
 
