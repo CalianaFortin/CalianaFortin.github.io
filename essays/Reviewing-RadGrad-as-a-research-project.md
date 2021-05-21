@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: A Different Type of art   
+date: 2020-10-08
+labels:
+  - Learning
+  - Website Design
+---
+
 The Purpose of the Radgrad Research Project
 
 The purpose of the Radgrad Project can be best summarized by looking at the following goals: 
