@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Reviewing RadGrad as a Research Project  
-date: 2020-05-21
+date: 2021-05-21
 labels:
   - Learning
   - Website Design
