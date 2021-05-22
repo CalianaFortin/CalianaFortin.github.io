@@ -38,7 +38,7 @@ RadGrad currently has a lot of bugs which make it the site slightly hard to use.
 
 Currently RadGrad does not fully work in smaller window sizes which to me is a definite downside.
 
-## Impressions of the Lannding Page 
+## Impressions of the Landing Page 
 
 ### Styling
 *Style Rating: 3.5/5* 
