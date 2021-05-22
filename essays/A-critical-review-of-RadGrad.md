@@ -26,15 +26,15 @@ I think that RadGrad removes the guesswork, of having to figure out how many int
 In general Radgrad is an easy application to use. I like that I don’t have to look at a tutorial to use the website.
 
 ## RadGrad Weaknesses
-1. Its hard to get students to consistently use RadGrad. 
+* Its hard to get students to consistently use RadGrad. 
 
 One of my personal experiences with RadGrad is that I only used it for half a semester as a freshmen. I think that at the time the opportunities with RadGrad were not fully articulated or explained. My advisor never pushed me to use it, so I didn’t.
 
-2. There’s a lot of bugs. 
+* There’s a lot of bugs. 
 
 RadGrad currently has a lot of bugs which make it the site slightly hard to use. Despite this I think the overall experience was not too bad.
 
-3. The current layout does not work in a smaller window size.
+* The current layout does not work in a smaller window size.
 
 Currently RadGrad does not fully work in smaller window sizes which to me is a definite downside.
 
