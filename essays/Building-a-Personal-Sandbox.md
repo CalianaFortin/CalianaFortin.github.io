@@ -20,12 +20,9 @@ labels:
 ### Struggles: 
 - I did alright and did not struggle with antyhing during this task. 
 
-## Task 2: Create a RadGradSegment containing "Hello, World"
+## Task 2: Create a RadGradSegment containing the current user
 
 <img class="ui centered image" src="../images/Task2Completed.png" alt="NONE">
-
-From previous projects I already knew how to grab the username of the user using Meteor.user(), so the first part of the task wasn't too hard. However, I was not too sure how to grab the username appearing in the URL. 
-
 
 ### What I learned: 
 From previous projects I already knew how to grab the username of the user using Meteor.user(), so the first part of the task wasn't too hard. However, I was not too sure how to grab the username appearing in the URL. I had decided to refer to my other teamates' essays about how they solved this task. A lot of them mentioned using useParams() from ReactRouters. 
@@ -36,6 +33,26 @@ From previous projects I already knew how to grab the username of the user using
 
 - The final code I ended up writting to get the user name looked like this:
 `const { username } = useParams();`
+
+### Struggles: 
+- I initially struggled with finding out how to grab the username appearing in the URL. 
+
+## Task 3: Create a RadGradSegment presenting MiniMongo data
+
+<img class="ui centered image" src="../images/Task3Completed.png" alt="NONE">
+
+### What I learned: 
+Task 3 wasn't too hard. I knew that in order to randomize the careerGoals I needed an array of career goals to randomize. From previous projects, I had used underscore's .sample to randomize the chosen value from an array, however I don't think Radgrad is using underscore so I had to look for another way to randomize input from an array. The solution I found came from this link: https://stackoverflow.com/questions/9286473/whats-the-equivalent-of-sample-in-javascript
+
+Another thing I needed to know was how to actually get the data needed to randomize. I decided to consult my teamates' essays. I noticed that they used CareerGoalBrowserViewPage.tsx as an example to follow, so I decided to take a look. CareerGoalBrowserViewPage.tsx uses something called interface to accces some of the properties of their objects. 
+
+According to [typescript documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html) an interface is simply a way to represent object types. An interface allows us to name the object. 
+
+In this case I decided to name the object Task3CareerGoalsProps the object looked something like this: 
+- `interface Task3CareerGoalsProps {
+  careerGoals: CareerGoal[];
+}`
+
 
 ### Struggles: 
 - I initially struggled with finding out how to grab the username appearing in the URL. 
