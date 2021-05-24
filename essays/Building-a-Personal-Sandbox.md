@@ -53,7 +53,7 @@ In this case I decided to name the object Task3CareerGoalsProps. The object look
   careerGoals: CareerGoal[];
 }`
 - `careerGoals` is the singleton instance of this class from the CareerGoalsCollection api 
-- `CareerGoal[]` was an array which holds all of the career goals in the database. 
+- `CareerGoal[]` is an array which holds all of the career goals in the database. 
 
 One of the things I was a little confused by was the `React.FC` thing? I've never used this in any of my previous projects so I decided to look it up. According to this website https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/ , since react was not written in Typescript a package from the community was provided called @types/react. FC is simply a generic type that is used to create function components. 
 
