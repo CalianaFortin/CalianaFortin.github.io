@@ -48,7 +48,7 @@ Another thing I needed to know was how to actually get the data needed to random
 
 According to [typescript documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html) an interface is simply a way to represent object types. An interface allows us to name the object. 
 
-In this case I decided to name the object Task3CareerGoalsProps the object looked something like this: 
+In this case I decided to name the object Task3CareerGoalsProps. The object looked something like this: 
 - `interface Task3CareerGoalsProps {
   careerGoals: CareerGoal[];
 }`
@@ -61,4 +61,5 @@ From a lot of examples I am seeing inside these  `<...>` brackets we put the obj
 - [good resource for typescript](https://react-typescript-cheatsheet.netlify.app/)
 
 
-
+&nbsp;
+&nbsp;
