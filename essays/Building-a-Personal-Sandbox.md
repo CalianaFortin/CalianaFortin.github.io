@@ -41,7 +41,7 @@ From previous projects I already knew how to grab the username of the user using
 
 <img class="ui centered image" src="../images/Task3Completed.png" alt="NONE">
 
-### What I learned: 
+### What I learned/ Struggles: 
 Task 3 wasn't too hard. I knew that in order to randomize the careerGoals I needed an array of career goals to randomize. From previous projects, I had used underscore's .sample to randomize the chosen value from an array, however I don't think Radgrad is using underscore so I had to look for another way to randomize input from an array. The solution I found came from this link: https://stackoverflow.com/questions/9286473/whats-the-equivalent-of-sample-in-javascript
 
 Another thing I needed to know was how to actually get the data needed to randomize. I decided to consult my teamates' essays. I noticed that they used CareerGoalBrowserViewPage.tsx as an example to follow, so I decided to take a look. CareerGoalBrowserViewPage.tsx uses something called interface to accces some of the properties of their objects. 
@@ -52,8 +52,13 @@ In this case I decided to name the object Task3CareerGoalsProps the object looke
 - `interface Task3CareerGoalsProps {
   careerGoals: CareerGoal[];
 }`
+- `careerGoals` was the property from the CareerGoals api 
+- `CareerGoal[]` was an array which holds all of the career goals in the database. 
+
+The third thing I needed to know was what is this `React.FC` thing? I've never used this any of my previous projects so I decided to look it up. According to this website https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/ , since react was not written in Typescript a package from the community was provided calles @types/react. FC is a generic type that is used to create function components. 
+
+From a lot of examples I am seeing inside these  `<...>` brackets we put the object name. 
+- [good resource](https://react-typescript-cheatsheet.netlify.app/)
 
 
-### Struggles: 
-- I initially struggled with finding out how to grab the username appearing in the URL. 
 
