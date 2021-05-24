@@ -18,7 +18,7 @@ labels:
   - This shortcut is extremely helpful when looking for examples of how to accomplish a certain task.
 
 ### Struggles: 
-- I did alright and did not struggle with antyhing during this task. 
+- I did alright and did not struggle with anything during this task. 
 
 ## Task 2: Create a RadGradSegment containing the current user
 
