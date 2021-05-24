@@ -52,7 +52,7 @@ In this case I decided to name the object Task3CareerGoalsProps the object looke
 - `interface Task3CareerGoalsProps {
   careerGoals: CareerGoal[];
 }`
-- `careerGoals` was the property from the CareerGoals api 
+- `careerGoals` is the singleton instance of this class from the CareerGoalsCollection api 
 - `CareerGoal[]` was an array which holds all of the career goals in the database. 
 
 The third thing I needed to know was what is this `React.FC` thing? I've never used this any of my previous projects so I decided to look it up. According to this website https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/ , since react was not written in Typescript a package from the community was provided calles @types/react. FC is a generic type that is used to create function components. 
