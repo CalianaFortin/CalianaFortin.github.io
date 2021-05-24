@@ -55,9 +55,9 @@ In this case I decided to name the object Task3CareerGoalsProps. The object look
 - `careerGoals` is the singleton instance of this class from the CareerGoalsCollection api 
 - `CareerGoal[]` was an array which holds all of the career goals in the database. 
 
-The third thing I needed to know was what is this `React.FC` thing? I've never used this any of my previous projects so I decided to look it up. According to this website https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/ , since react was not written in Typescript a package from the community was provided calles @types/react. FC is a generic type that is used to create function components. 
+One of the things I was a little confused by is the `React.FC` thing? I've never used this in any of my previous projects so I decided to look it up. According to this website https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/ , since react was not written in Typescript a package from the community was provided called @types/react. FC is simply a generic type that is used to create function components. 
 
-From a lot of examples I am seeing inside these  `<...>` brackets we put the object name. 
+From a lot of examples I am seeing inside these `<...>` brackets we put the object name. 
 - [good resource for typescript](https://react-typescript-cheatsheet.netlify.app/)
 
 
