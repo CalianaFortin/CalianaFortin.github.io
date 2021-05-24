@@ -58,7 +58,7 @@ In this case I decided to name the object Task3CareerGoalsProps the object looke
 The third thing I needed to know was what is this `React.FC` thing? I've never used this any of my previous projects so I decided to look it up. According to this website https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/ , since react was not written in Typescript a package from the community was provided calles @types/react. FC is a generic type that is used to create function components. 
 
 From a lot of examples I am seeing inside these  `<...>` brackets we put the object name. 
-- [good resource](https://react-typescript-cheatsheet.netlify.app/)
+- [good resource for typescript](https://react-typescript-cheatsheet.netlify.app/)
 
 
 
