@@ -27,7 +27,7 @@ labels:
 ### What I learned: 
 From previous projects I already knew how to grab the username of the user using Meteor.user(), so the first part of the task wasn't too hard. However, I was not too sure how to grab the username appearing in the URL. I had decided to refer to my other teamates' essays about how they solved this task. A lot of them mentioned using useParams() from ReactRouters. 
 
-- Basically, useParams() returns an object of the params for the route rendered. More about useParams() can be found [here](https://reach.tech/router/api/useParams) and [here](https://reactrouter.com/web/api/Hooks).
+- Basically, useParams() returns an object of the params for the route rendered. More about useParams() can be found [here](https://reach.tech/router/api/useParams){:target="_blank"} and [here](https://reactrouter.com/web/api/Hooks){:target="_blank"}.
 
 - Another great tip for doing this is using the shortcut **cmd shift f** to find examples of how useParams() was used. 
 
@@ -46,7 +46,7 @@ Task 3 wasn't too hard. I knew that in order to randomize the careerGoals I need
 
 Another thing I needed to know was how to actually get the data needed to randomize. I decided to consult my teamates' essays. I noticed that they used CareerGoalBrowserViewPage.tsx as an example to follow, so I decided to take a look. CareerGoalBrowserViewPage.tsx uses something called interface to get the career goals.
 
-According to [typescript documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html) an interface is simply a way to represent object types. An interface allows us to name the object. 
+According to [typescript documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html){:target="_blank"} an interface is simply a way to represent object types. An interface allows us to name the object. 
 
 In this case I decided to name the object Task3CareerGoalsProps. The object looked something like this: 
 - `interface Task3CareerGoalsProps {
@@ -58,7 +58,7 @@ In this case I decided to name the object Task3CareerGoalsProps. The object look
 One of the things I was a little confused by was the `React.FC` thing? I've never used this in any of my previous projects so I decided to look it up. According to this website https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/ , since react was not written in Typescript a package from the community was provided called @types/react. FC is simply a generic type that is used to create function components. 
 
 From a lot of examples I am seeing inside these `<...>` brackets we put the object name. 
-- [good resource for typescript](https://react-typescript-cheatsheet.netlify.app/)
+- [good resource for typescript](https://react-typescript-cheatsheet.netlify.app/){:target="_blank"}
 
 
 &nbsp;
