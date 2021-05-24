@@ -44,7 +44,7 @@ From previous projects I already knew how to grab the username of the user using
 ### What I learned/ Struggles: 
 Task 3 wasn't too hard. I knew that in order to randomize the careerGoals I needed an array of career goals to randomize. From previous projects, I had used underscore's .sample to randomize the chosen value from an array, however I don't think Radgrad is using underscore so I had to look for another way to randomize input from an array. The solution I found came from this link: https://stackoverflow.com/questions/9286473/whats-the-equivalent-of-sample-in-javascript
 
-Another thing I needed to know was how to actually get the data needed to randomize. I decided to consult my teamates' essays. I noticed that they used CareerGoalBrowserViewPage.tsx as an example to follow, so I decided to take a look. CareerGoalBrowserViewPage.tsx uses something called interface to accces some of the properties of their objects. 
+Another thing I needed to know was how to actually get the data needed to randomize. I decided to consult my teamates' essays. I noticed that they used CareerGoalBrowserViewPage.tsx as an example to follow, so I decided to take a look. CareerGoalBrowserViewPage.tsx uses something called interface to get the career goals.
 
 According to [typescript documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html) an interface is simply a way to represent object types. An interface allows us to name the object. 
 
