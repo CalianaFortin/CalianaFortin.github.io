@@ -29,7 +29,7 @@ From previous projects I already knew how to grab the username of the user using
 
 - Basically, useParams() returns an object of the params for the route rendered. More about useParams() can be found [here](https://reach.tech/router/api/useParams) and [here](https://reactrouter.com/web/api/Hooks).
 
-- Another great tip for doing this is again using the shortcut **cmd shift f** to find examples of how useParams() was used. 
+- Another great tip for doing this is using the shortcut **cmd shift f** to find examples of how useParams() was used. 
 
 - The final code I ended up writting to get the user name looked like this:
 `const { username } = useParams();`
