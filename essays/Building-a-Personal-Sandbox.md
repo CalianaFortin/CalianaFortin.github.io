@@ -95,7 +95,7 @@ For this task I first looked for examples of how to edit autoforms in the RadGra
 
 ### What I learned/ Struggles: 
 
-For this task I first referred to my teamates essays to complete this task. This task was not to hard. I have used modal before, but I have never used tabs before so it was a little hard at first but after getting the first tab to work it was straightforward. I used the advisorFilteredStudentTabs.tsx as an example of how to use tabs.
+For this task I first referred to my teamates essays to complete this task. This task was not too hard. I have used modal before, but I have never used tabs before so it was a little hard at first but after getting the first tab to work it was straightforward. I used the advisorFilteredStudentTabs.tsx as an example of how to use tabs.
 
 &nbsp;
 &nbsp;
