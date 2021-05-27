@@ -60,6 +60,42 @@ One of the things I was a little confused by was the `React.FC` thing? I've neve
 From a lot of examples I am seeing inside these `<...>` brackets we put the object name. 
 - [good resource for typescript](https://react-typescript-cheatsheet.netlify.app/){:target="_blank"}
 
+## Task 4: Create a RadGradSegment containing Labels
+
+<img class="ui centered image" src="../images/Task4Completed.png" alt="NONE">
+
+### What I learned/ Struggles: 
+This task wasn't too hard since I had a code with me session to complete it. After knowing how to display the labels for the career goals, the rest was not hard. This was the following code used to display the career goal labels. 
+
+` <h3>Career Goals</h3> `
+`{careerGoals.map((goal) => (`
+   `<CareerGoalLabel slug={Slugs.getNameFromID(goal.slugID)}/> ))}`
+   
+Another important thing to keep in mind while doing this task is that for the student profiles you have to make sure to only retrieve the students are not alumni, so the following code does that. 
+
+`const students = StudentProfiles.findNonRetired({ isAlumni: false });`
+
+## Task 5: Use a form to control what's displayed in a page
+<img class="ui centered image" src="../images/Task5Completed.png" alt="NONE">
+
+### What I learned/ Struggles: 
+
+For this task I first looked for examples of how autoforms is used with in the RadGrad2 project. I used the [Add academic year Instance file](https://github.com/radgrad/radgrad2/blob/master/app/imports/ui/components/admin/datamodel/academic-year/AddAcademicYearInstanceForm.tsx) to help me write the swal alerts and the form. Since I have already used autoforms in previous project this task was not too hard. I also referred to my other teamates essays for more direction. 
+
+## Task 6: Meteor Methods: Create a form that updates the database
+<img class="ui centered image" src="../images/Task6Completed(1).png" alt="NONE">
+<img class="ui centered image" src="../images/Task6Completed(2).png" alt="NONE">
+
+### What I learned/ Struggles: 
+
+For this task I first looked for examples of how to edit autoforms in the RadGrad2 project. I used the editCareerGoals file to help me figure out what I would need to complete this task. I noticed that the two most important things for editing is the update method with call promise and update schema, so I knew that I had to include these in the component to edit the description. I also referred to my other teamates essays for more direction.
+
+## Task 7: Tabbed and Modal components (Bonus round)
+<img class="ui centered image" src="../images/Task7Completed.png" alt="NONE">
+
+### What I learned/ Struggles: 
+
+For this task I first referred to my teamates essays to complete this task. This task was not to hard. I have used modal before, but I have never used tabs before so it was a little hard at first but after getting the first tab to work it was straightforward. I used the advisorFilteredStudentTabs.tsx as an example of how to use tabs.
 
 &nbsp;
 &nbsp;
